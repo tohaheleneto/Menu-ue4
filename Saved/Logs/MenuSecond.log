@@ -1874,3 +1874,63 @@ Exception rethrown at [0]:
 [2019.03.02-15.46.45:089][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
 [2019.03.02-15.46.48:177][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
 [2019.03.02-15.46.48:207][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-15.52.13:069][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/village" FILE="../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Content/village.uasset" SILENT=true
+[2019.03.02-15.52.13:605][371]LogSavePackage: Save=518.13ms
+[2019.03.02-15.52.13:605][371]LogSavePackage: Moving '../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Saved/villageF21A5F244756599E5B1AD38FBC1C308E.tmp' to '../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Content/village.uasset'
+[2019.03.02-15.52.13:608][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Content/village.uasset
+[2019.03.02-15.52.13:612][371]Cmd: MAP LOAD FILE="../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.02-15.52.13:612][371]LightingResults: New page: Lighting Build
+[2019.03.02-15.52.13:613][371]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.03.02-15.52.13:629][371]MapCheck: New page: Map Check
+[2019.03.02-15.52.13:629][371]LightingResults: New page: Lighting Build
+[2019.03.02-15.52.13:659][371]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.02-15.52.13:770][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.02-15.52.13:797][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.02-15.52.13:882][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.944ms to complete.
+[2019.03.02-15.52.13:883][371]LogFileHelpers: Loading map 'MainMenu' took 0.272
+[2019.03.02-16.02.09:460][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu' took 0.025
+[2019.03.02-16.02.09:473][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/authorization] ([1] browsable assets)...
+[2019.03.02-16.02.09:473][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/authorization]
+[2019.03.02-16.02.09:474][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/authorization" FILE="../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Saved/Autosaves/Game/authorization_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-16.02.09:536][403]LogSavePackage: Save=45.37ms
+[2019.03.02-16.02.09:536][403]LogSavePackage: Moving '../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Saved/authorization_Auto4054A5F30492280A0FC5AF498126D888D.tmp' to '../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Saved/Autosaves/Game/authorization_Auto4.uasset'
+[2019.03.02-16.02.09:537][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/no name/Documents/Unreal Projects/MenuSecond/Saved/Autosaves/Game/authorization_Auto4.uasset
+[2019.03.02-16.02.09:537][403]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.03.02-16.02.55:990][711]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.02.56:002][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.02.56:002][711]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.02-16.02.56:035][711]LogPlayLevel: [PlayLevel] Compiling authorization before play...
+[2019.03.02-16.02.56:187][711]LogPlayLevel: PlayLevel: Blueprint regeneration took 185 ms (1 blueprints)
+[2019.03.02-16.02.56:188][711]PIE: New page: PIE session: MainMenu (Mar 2, 2019, 10:02:56 PM)
+[2019.03.02-16.02.56:188][711]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.03.02-16.02.56:189][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001125s)
+[2019.03.02-16.02.56:189][711]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.02-16.02.56:190][711]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.03.02-16.02.56:190][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002082s)
+[2019.03.02-16.02.56:224][711]LogInit: XAudio2 using 'Speakers (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.02-16.02.56:236][711]LogInit: FAudioDevice initialized.
+[2019.03.02-16.02.56:268][711]LogLoad: Game class is 'GameModeBase'
+[2019.03.02-16.02.56:269][711]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.03.02-19.02.56
+[2019.03.02-16.02.56:270][711]LogWorld: Bringing up level for play took: 0.000518
+[2019.03.02-16.02.56:272][711]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0.704
+[2019.03.02-16.02.56:273][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.02.59:122][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.02.59:156][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.03.00:925][991]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.03.00:937][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.03.00:937][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.03.00:937][991]PIE: New page: PIE session: MainMenu (Mar 2, 2019, 10:03:00 PM)
+[2019.03.02-16.03.00:938][991]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.03.02-16.03.00:939][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2019.03.02-16.03.00:940][991]LogAIModule: Creating AISystem for world MainMenu
+[2019.03.02-16.03.00:940][991]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.03.02-16.03.00:940][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002076s)
+[2019.03.02-16.03.00:961][991]LogInit: XAudio2 using 'Speakers (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.02-16.03.00:966][991]LogInit: FAudioDevice initialized.
+[2019.03.02-16.03.00:996][991]LogLoad: Game class is 'GameModeBase'
+[2019.03.02-16.03.00:997][991]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.03.02-19.03.00
+[2019.03.02-16.03.00:998][991]LogWorld: Bringing up level for play took: 0.000444
+[2019.03.02-16.03.01:000][991]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0.024
+[2019.03.02-16.03.01:000][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.03.07:671][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.03.02-16.03.07:701][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
